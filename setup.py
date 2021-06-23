@@ -29,7 +29,7 @@ def setup():
         long_description_content_type='text/markdown',
         author=__author__,
         author_email=__author_email__,
-        url='https://github.com/altairbow/django-db-connection-pool',
+        url='https://github.com/allouzi/DjangoDBConnectionPool',
         download_url='https://pypi.python.org/pypi/django-db-connection-pool/',
         packages=setuptools.find_packages(),
         include_package_data=True,
